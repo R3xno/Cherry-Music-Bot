@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID", "0"))
-API_HASH = getenv("API_HASH", "0")
+API_ID = int(getenv("API_ID", "20558450"))
+API_HASH = getenv("API_HASH", "206db5264a2608e01d3500b90f00e13e")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "0")
+BOT_TOKEN = getenv("BOT_TOKEN", "7582864839:AAG2e4b-HjnPnKFEunqq8K7WXfM7QRyJSPY")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@RexnoSaiko")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "CherryXMusic_Robot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+BOT_NAME = getenv("BOT_NAME" , "˚⋆𐙚｡𝐜𝐡𝐞𝐫𝐫𝐲Ｘ𝐦𝐮𝐬𝐢𝐜.˚🦢˚")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "˚⋆𐙚｡𝐜𝐡𝐞𝐫𝐫𝐲Ｘ𝐦𝐮𝐬𝐢𝐜.˚🦢˚")
 
 API_KEY = "abc921ff654bcf7b3faff8f775d781d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
